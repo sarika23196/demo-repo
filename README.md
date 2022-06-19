@@ -1,3 +1,4 @@
 # Courses API
 
-There are topics, under which we have many courses.
+There are topics, under which we have many courses!
+we have 2 model classes.
